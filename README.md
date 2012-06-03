@@ -1,4 +1,4 @@
-# memory.js
+# pair.js
 
 A memory game using HTML5 and node.js by Thorsten Rinne and Sebastian Springer
 
